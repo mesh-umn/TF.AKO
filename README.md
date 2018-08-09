@@ -1,6 +1,6 @@
 # Decentralized Distributed Deep Learning (DL) in TensorFlow
 
-This is a TensorFlow implementation of [Ako](https://lsds.doc.ic.ac.uk/sites/default/files/ako-socc16.pdf) (Ako: Decentralised Deep Learning with Partial Gradient Exchange). You can train any DNNs in a decentralized manner without parameter servers. Workers exchange partitioned gradients directly with each other without help of parameter servers and update their own local weights. Please refer original paper [Ako](https://lsds.doc.ic.ac.uk/sites/default/files/ako-socc16.pdf) paper and our [project home](https://www-users.cs.umn.edu/~chandra/tfako/home.html) for more details. 
+This is a TensorFlow implementation of [Ako](https://lsds.doc.ic.ac.uk/sites/default/files/ako-socc16.pdf) (Ako: Decentralised Deep Learning with Partial Gradient Exchange). You can train any DNNs in a decentralized manner without parameter servers. Workers exchange partitioned gradients directly with each other without help of parameter servers and update their own local weights. Please refer the original paper [Ako](https://lsds.doc.ic.ac.uk/sites/default/files/ako-socc16.pdf) or our [project home](https://www-users.cs.umn.edu/~chandra/tfako/home.html) for more details. 
 
 ### Installation
  - Environments  
